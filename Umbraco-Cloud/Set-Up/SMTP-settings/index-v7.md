@@ -48,6 +48,7 @@ As Umbraco Cloud doesn't provide SMTP servers, this is something you will need t
 * [Sparkpost](https://www.sparkpost.com/) - quick to setup and developer-friendly
 * [SendGrid](https://sendgrid.com/) - quick to setup
 * [MailGun](https://www.mailgun.com/) - mainly for developers, as it is a bit more on the technical side
+* [Rapidmail](https://www.rapidmail.com/) - EU based and GDPR compliant
 
 <iframe width="800" height="450" src="https://www.youtube.com/embed/vME6GVy86LI?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
